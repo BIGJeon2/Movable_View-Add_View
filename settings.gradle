@@ -1,0 +1,2 @@
+rootProject.name = "Move_View_Prac"
+include ':app'
